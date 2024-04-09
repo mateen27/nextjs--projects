@@ -21,7 +21,6 @@ function Header() {
                     <span className='text-xl hidden sm:inline'>Clone</span>
                 </Link>
             </div>
-
         </div>
     )
 }
